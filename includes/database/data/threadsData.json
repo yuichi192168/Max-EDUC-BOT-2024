@@ -1,0 +1,157 @@
+{
+    "24473531038958439": {
+        "threadInfo": {
+            "threadID": "24473531038958439",
+            "threadName": "BOT",
+            "emoji": null,
+            "adminIDs": [
+                {
+                    "id": "100029276150511"
+                },
+                {
+                    "id": "100082079415194"
+                },
+                {
+                    "id": "100082079415194"
+                }
+            ],
+            "participantIDs": [
+                "100029276150511",
+                "100082079415194",
+                "100055084791819"
+            ],
+            "isGroup": true
+        },
+        "createTime": {
+            "timestamp": 1698551807368
+        },
+        "data": {
+            "timestamp": 1698551807368,
+            "antiout": false
+        }
+    },
+    "100073917793263": {
+        "threadInfo": {
+            "threadID": "100073917793263",
+            "threadName": null,
+            "emoji": null,
+            "adminIDs": [],
+            "participantIDs": [
+                "100073917793263",
+                "100082079415194"
+            ],
+            "isGroup": false
+        },
+        "createTime": {
+            "timestamp": 1698579705407
+        },
+        "data": {
+            "timestamp": 1698579705407
+        }
+    },
+    "100055084791819": {
+        "threadInfo": {
+            "threadID": "100055084791819",
+            "threadName": null,
+            "emoji": null,
+            "adminIDs": [],
+            "participantIDs": [
+                "100055084791819",
+                "100082079415194"
+            ],
+            "isGroup": false
+        },
+        "createTime": {
+            "timestamp": 1698714589137
+        },
+        "data": {
+            "timestamp": 1698714589137
+        }
+    },
+    "6831498923563554": {
+        "threadInfo": {
+            "threadID": "6831498923563554",
+            "threadName": "BOT-1",
+            "emoji": null,
+            "adminIDs": [
+                {
+                    "id": "100029276150511"
+                }
+            ],
+            "participantIDs": [
+                "100029276150511",
+                "100050224322886",
+                "100082079415194"
+            ],
+            "isGroup": true
+        },
+        "createTime": {
+            "timestamp": 1698908503128
+        },
+        "data": {
+            "timestamp": 1698908503128
+        }
+    },
+    "6865311520182306": {
+        "threadInfo": {
+            "threadID": "6865311520182306",
+            "threadName": "✧ : dexia mainest (ntl’s)",
+            "emoji": null,
+            "adminIDs": [
+                {
+                    "id": "61550561817083"
+                },
+                {
+                    "id": "100093577906132"
+                }
+            ],
+            "participantIDs": [
+                "61550561817083",
+                "61552907136378",
+                "61552913760782",
+                "100029276150511",
+                "100076631394742",
+                "100082079415194",
+                "100083697841669",
+                "100093577906132",
+                "100095232579236",
+                "100058862443575",
+                "100092692610241",
+                "100093269612401",
+                "100089567749147",
+                "61551041274485"
+            ],
+            "isGroup": true
+        },
+        "createTime": {
+            "timestamp": 1698981878125
+        },
+        "data": {
+            "timestamp": 1698981878125
+        }
+    },
+    "6563665560428537": {
+        "threadInfo": {
+            "threadID": "6563665560428537",
+            "threadName": "BOT2",
+            "emoji": null,
+            "adminIDs": [
+                {
+                    "id": "100029276150511"
+                }
+            ],
+            "participantIDs": [
+                "100029276150511",
+                "100055084791819",
+                "100082079415194"
+            ],
+            "isGroup": true
+        },
+        "createTime": {
+            "timestamp": 1699104950626
+        },
+        "data": {
+            "timestamp": 1699104950626
+        }
+    }
+}

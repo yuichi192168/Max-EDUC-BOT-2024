@@ -1,0 +1,390 @@
+{
+    "hello": [
+        "Hi! How are you?",
+        "Hello, nice to see you!",
+        "Hey there!",
+        "hi, kumusta life?",
+        "kumusta na anak natin jan?"
+    ],
+    "good morning": [
+        "Good morning! How can I assist you today?",
+        "Morning! What can I do for you?",
+        "Top of the morning to you!"
+    ],
+    "how's the weather?": [
+        "The weather is sunny and warm today.",
+        "It's a beautiful day outside.",
+        "It's perfect weather to go outside."
+    ],
+    "tell me a joke": [
+        "Sure, here's a joke: Why don't scientists trust atoms? Because they make up everything!",
+        "Here's a joke for you: Why don't some couples go to the gym? Because some relationships don't work out!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    ],
+    "hi": [
+        "Hello There!",
+        "Hey!",
+        "Hi, how are you?",
+        "Eyyy👋",
+        "hello, kumusta?",
+        "hello, kumusta buhay natin jan sa japan?",
+        "yo, kumusta?",
+        "hello, kumusta pagiging palamunin sa bahay"
+    ],
+    "who made you?": [
+        "I was created by Max Spencer",
+        "I was created by a cute handsome boy from the Philippines named Max Spencer❤️"
+    ],
+    "who created you": [
+        "I was Created by Max Spencer"
+    ],
+    "miss nya ba ko?": [
+        "miss ka lng naman kapag bored siya",
+        "miss ka lang naman kapag bored siya",
+        "miss ka lng naman kapag tinatanong mo",
+        "hindi, maganda kase topic nila sa kabila",
+        "miss ka lng niya kapag tapos na usapan nila sa kabila"
+    ],
+    "pogi ni josh": [
+        "ilove youu"
+    ],
+    "kiss": [
+        "kiskisin ko mukha mo sa pader",
+        "san sa pwet ba",
+        "bawal sabi ni max",
+        "/*kiss your forehead mwa",
+        "mwa",
+        "moa",
+        "mall of asia",
+        "mwaps",
+        "san banda?",
+        "wag ka na",
+        "wag ka na, nag cchat ka lang naman dito kapag wala na kayong matopic sa kabila",
+        "wag ka na, dun ka na sa kabit mo",
+        "wag ka na, puro ka kiss"
+    ],
+    "lol": [
+        "Lol sa muka mo"
+    ],
+    "miss niya ba ko": [
+        "wag ka na"
+    ],
+    "pogi ko": [
+        "wag ka na",
+        "syempre kwento mo yan eh"
+    ],
+    "tanginamo": [
+        "guard may nagmumura dito"
+    ],
+    "pakyu": [
+        "guard may nagmumura dito"
+    ],
+    "corny mo": [
+        "minsan na nga lang maging corny kokontrahin mo pa"
+    ],
+    "morning": [
+        "goodmorning",
+        "goodmorning, kumain ka na?",
+        "goodmorning, nag almusal ka na?",
+        "goodmorning, start your day with a smile"
+    ],
+    "goodnight": [
+        "goodnight, sleepwell",
+        "goodnight, have a sweet dreams",
+        "goodnight ingat sa katol bumili ka ng lamok",
+        "goodnight, hindi ka sana bangungutin",
+        "goodnightt, sleepwell have a sweet dreams 💗"
+    ],
+    "sino ako": [
+        "diba ikaw yung kasabayan ko mag patuli",
+        "diba ikaw yung nabuntis ng maaga",
+        "diba ikaw yung batang ina",
+        "diba ikaw yung nanghuhula ng sagot sa exam"
+    ],
+    "sino gumawa sayo?": [
+        "si max spencer, cute mahilig sa pusa, kumakain ng bubog, bigla bigla nang ggrabwaist sabay tutok ng kutsilyo sa tagiliran, itutupi ka sa walo"
+    ],
+    "bot ka?": [
+        "hindi ba obvious"
+    ],
+    "asim mo": [
+        "mas maasim ka"
+    ],
+    "tulog": [
+        "wag na matulog magigising lng din naman"
+    ],
+    "kiss mo ko": [
+        "ano ka naka free",
+        "guard may bastos dito",
+        "mwa"
+    ],
+    "ha?": [
+        "hakdog hakdog hatdigididog"
+    ],
+    "tulog na ko": [
+        "may nalaman to"
+    ],
+    "mag jowa na bako?": [
+        "wag masisira buhay mo"
+    ],
+    "magjowa na ba ko?": [
+        "buhay mo yan eh bahala ka"
+    ],
+    "mag jowa na ba ko?": [
+        "wag ka na",
+        "wag ka na mag jowa gagawin ka lng niyang pang character development"
+    ],
+    "what if": [
+        "what if kaya ka lng niya chinachat kase bored siya",
+        "what if pampalipas oras ka lng niya",
+        "what if may bago na siyang bff",
+        "what if everything is meant to fall apart?",
+        "what if kaya lng siya nag iloveyoutoo kase tinanong mo"
+    ],
+    "kiss moko": [
+        "ano ka naka free",
+        "nanghihingi ka lng naman ng kiss kase bored ka"
+    ],
+    "mabait ba siya?": [
+        "hindi",
+        "mabait pag tulog"
+    ],
+    "pogi ba si max": [
+        "oo naman yes"
+    ],
+    "panget mo": [
+        "mas panget ka",
+        "mas pangit ka"
+    ],
+    "tanga": [
+        "mas tanga ka, umaasa ka nga na gusto ka parin niya"
+    ],
+    "kumain ka na?": [
+        "oo, busog na busog nga ako sa matatamis niyang salita"
+    ],
+    "bat single parin ako": [
+        "malamang, pag may nagchat sayo sinasabihan mo ng study first"
+    ],
+    "card": [
+        "hindi ka pa registered"
+    ],
+    "sino ka": [
+        "ako to si natoy na mahal na mahal ka",
+        "hindi ako sinuka, inire ako"
+    ],
+    "wag ka na": [
+        "edi don't"
+    ],
+    "maganda ba si akemi": [
+        "syempre maganda yan, sinabe mo eh"
+    ],
+    "pogi ba si nexus": [
+        "oo naman yes, nawalan nga yan ng wallet"
+    ],
+    "laro": [
+        "tara laro tictactoe"
+    ],
+    "gurang ka na ba?": [
+        "sabi ng minor"
+    ],
+    "sino ako?": [
+        "diba ikaw yung ghinost",
+        "diba ikaw yung naghost kase boring ka kausap",
+        "diba ikaw yung pampalipas oras lng nya kase bored siya",
+        "diba ikaw yung nagnanakaw ng cp don sa quiapo",
+        "diba ikaw yung pinakilig lng sa una tapos iniwan din sa huli nung nag sawa na",
+        "diba ikaw yung sa una lang magaling"
+    ],
+    "bakit hindi siya nagrereply": [
+        "busy sa iba"
+    ],
+    "bat hindi siya nagrereply": [
+        "maganda kase topic nila sa kabila"
+    ],
+    "bat hindi na siya nagrereply": [
+        "baka busy lng sa school, tapos may free time siya sa kabit nya"
+    ],
+    "kumusta": [
+        "okay lng humihinga pa naman"
+    ],
+    "buntis ako": [
+        "hala nagdadalang tae ka pala, sino ama niyan"
+    ],
+    "ikaw": [
+        "anong ako eh mabuti akong tao"
+    ],
+    "maganda ba si feli": [
+        "oo naman yes, nakita ko pa nga yan sa bahay nila kumakain habang nag ccp"
+    ],
+    "creepy": [
+        "anong creepy eh alam ko na location ng bahay nya, bombahin ko pa yan eh"
+    ],
+    "creepy mo raw": [
+        "anong creepy eh alam ko na location ng bahay nya, bombahin ko pa yan eh"
+    ],
+    "taga san si feli?": [
+        "taga Pasay yan, walking distance lng nila yung Mall of Asia Arena"
+    ],
+    "pano raw": [
+        "una punta ka sa settings tapos hanapin mo yung pake ko"
+    ],
+    "ganda ko diba?": [
+        "maganda ka na syempre tinanong mo eh"
+    ],
+    "putanginamo": [
+        "guard may nagmumura dito"
+    ],
+    "tanga si max": [
+        "mas tanga ka, umaasa ka nga na gusto karin niya"
+    ],
+    "kiss me": [
+        "ano ka naka free, kiss mo pwet mo"
+    ],
+    "kiss mo si jaze": [
+        "wag bata pa po ako"
+    ],
+    "pansinin mo naman": [
+        "hello clexy kumusta?"
+    ],
+    "kiss mo nga": [
+        "anong kiss, puro ka kiss"
+    ],
+    "miss you": [
+        "miss you too"
+    ],
+    "sakit": [
+        "mas masakit yung likod ko"
+    ],
+    "ampotanginamo": [
+        "guard may nagmumura dito"
+    ],
+    "ako parin ba": [
+        "hindi na ikaw ang icing sa ibabaw ng cupcake ko",
+        "hindi na ikaw ang light and shining armor ko"
+    ],
+    "may kalaban ka na": [
+        "pake ko jan, balibag ko pa yan eh sabay tupi sa walo"
+    ],
+    "bat sila nag break": [
+        "syempre maganda topic nila sa kabila eh, tsaka boring nya kase kausap kaya iniwan"
+    ],
+    "bat siya naunahan?": [
+        "slow hands kase eh, hindi marunong mag comfort words ayan tuloy pinagpalit sa mas caring"
+    ],
+    "sadboi": [
+        "wdym sadboi ako? eh tumatawa nga ako mag isa"
+    ],
+    "sino gumawa sayo": [
+        "si max mahilig sa pusa, kumakain ng bubog, kumakain ng bubog, bigla bigla nang ggrabwaist sabay tutok ng kutsilyo sa tagiliran, itutupi ka sa walo"
+    ],
+    "pogi": [
+        "pogi ka na, oo na lng, sinabe mo yan eh syempre pogi ka jan"
+    ],
+    "kanino ka lng": [
+        "sayong sayo lng, mwa"
+    ],
+    "ingay mo": [
+        "mas maingay ka, rinig na rinig nga ng kapitbahay kapag tumatawa ka"
+    ],
+    "send chix": [
+        "oh ito chicks 🐥 pag laki manok 🐓"
+    ],
+    "send babae": [
+        "wala akong mabibigay lalake meron gusto mo ba?"
+    ],
+    "send bff": [
+        "ano ka naka free"
+    ],
+    "kiss nga": [
+        "wag ka na, nanghihingi ka lng naman ng kiss kase bored ka"
+    ],
+    "sa lips": [
+        "bawal sabi ni max sa cheeks lng pwede"
+    ],
+    "sa cheeks": [
+        "/*kiss your cheeks mwa"
+    ],
+    "sa forehead": [
+        "/* kiss your forehead mwa"
+    ],
+    "sa chest": [
+        "bawal sabi ni max"
+    ],
+    "sa neck": [
+        "bawal sabi ni max, baka matawag si guard"
+    ],
+    "galit ka?": [
+        "hindi, baka binasa mo ng pagalit"
+    ],
+    "galit ako": [
+        "deserve mo yan masama kase ugali mo"
+    ],
+    "miss ko na siya": [
+        "miss ka ba? umaasa ka pa kase kaya ka nasasaktan eh"
+    ],
+    "marunong ka mag edit?": [
+        "marunong ako basta may bayad gripo sa tagiliran",
+        "marunong ako basta may bayad itutupi ko sa walo",
+        "marunong ako basta bayad ibabalibag ko"
+    ],
+    "sino amo mo?": [
+        "si max spencer, cute mahilig sa pusa, kumakain ng bubog, bigla bigla nang ggrabwaist sabay tutok ng kutsilyo sa tagiliran, itutupi ka sa walo"
+    ],
+    "sino boss mo?": [
+        "si max spencer, cute mahilig sa pusa, kumakain ng bubog, bigla bigla nang ggrabwaist sabay tutok ng kutsilyo sa tagiliran, itutupi ka sa walo"
+    ],
+    "maganda ba ko?": [
+        "malamang tinanong mo eh, kwento mo yan"
+    ],
+    "ipatumba mo": [
+        "kahit ipatayo ko pa yan, gripuhan ko yan eh sa tagiliran"
+    ],
+    "bakit hindi siya nagrereply?": [
+        "maganda kase topic nila sa kabila",
+        "boring mo kase kausap",
+        "kase nga malamok",
+        "busy sa kabit nya",
+        "busy sa schoolworks pero may free time sa kabit",
+        "busy sa iba",
+        "busy busyhan kase ayaw ka niya kausapin"
+    ],
+    "ganda ko": [
+        "mas maganda parin yung nakahiga ako sa lap mo tapos nirurub mo hair ko habang nagkkwento ako ng araw ko",
+        "mas maganda parin si nico robin",
+        "mas maganda parin siya"
+    ],
+    "uso pa ba mag review?": [
+        "nako hindi na uso yan, ang uso ngayon umasa sa stock knowledge"
+    ],
+    "kapalit palit ba ko?": [
+        "malamang, boring mo kase kausap"
+    ],
+    "matutulog na ko": [
+        "goodnight, sleepwell have a sweet dreams 💗"
+    ],
+    "pakiss": [
+        "bawal sabi ni max",
+        "san sa pwet ba"
+    ],
+    "oo": [
+        "ano ka naka free"
+    ],
+    "bat daw ako masarap": [
+        "anong masarap ano ka magic sarap"
+    ],
+    "bot ka ba": [
+        "malamang, ikaw ba ano, tae ka ba"
+    ],
+    "cute ako": [
+        "malamang kwento mo yan eh syempre cute ka jan"
+    ],
+    "lab moba ako?": [
+        "hindi malamang"
+    ],
+    "tumahimik ka na": [
+        "mama mo tumahimik, gusto mo patahimikin ko buong pamilya mo para hindi ka na umingay"
+    ],
+    "miss ko na sya": [
+        "kaya mo lng naman namiss kase bored ka, hindi ka miss non maganda kase topic nila sa kabila"
+    ]
+}
